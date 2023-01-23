@@ -1,0 +1,130 @@
+#conteneur
+{
+    border: medium grey inset;
+    border-collapse: unset;
+    background-color: lightskyblue;
+    width: 415px;
+    height: 625px;
+    margin: 0px auto 0px auto;
+
+}
+#planGauche
+{
+    background-color: aliceblue;
+    width: 35%;
+    height:100%;
+    float: left;
+    text-align: left;
+    padding-left: 10px;
+    paddind-right:10px;
+}
+#nom
+{
+    color: black;
+    margin-bottom:0px;
+}
+#bts
+{
+    margin-top: 0px;
+    color: dimgrey;
+    margin-left: 30px;
+}
+#planDroit
+{
+    background-color: lightskyblue;
+    width: 62%;
+    height: 75%;
+    float: right;
+}
+#photo
+{
+    width: 90px;
+    height: 100px;
+    position: initial;
+    clip-path: ellipse(48% 50%);
+    margin-left: 23px;
+}
+#description
+{
+    font-size: smaller;
+    margin-left: 5px;
+    color: dimgrey;
+    font-family: initial;
+}
+
+.bloc
+{
+    display: block;
+
+}
+.ligne
+{
+    display: inline;
+}
+h5
+{
+    text-align: center;
+    margin-bottom: 0px;
+    }
+.container
+{
+    width: 97%;
+    background-color: grey;
+    margin-top: -7px;
+}
+.skills
+{
+    text-align: right;
+    color: white;
+    font-size: small;
+}
+.htmlcss
+{
+    width: 70%;
+    background-color: cornflowerblue;
+}
+.java
+{
+    width: 70%;
+    background-color: cornflowerblue;
+}
+.mySQL
+{
+    width: 90%;
+    background-color: cornflowerblue;
+}
+.anglais
+{
+    width: 50%;
+    background-color: cornflowerblue;
+}
+.hebreu
+{
+    width: 60%;
+    background-color: cornflowerblue;
+
+}
+p{
+    font-size: x-small;
+    margin-left: 5px;
+    color: dimgray;
+    font-family: initial;
+
+}
+#pied
+{
+    background-color:aliceblue;
+    width: 260px;
+    height: 75px;
+    position: absolute;
+    text-align: center;
+    bottom: 26.6%;
+    left: 46.5%;
+}
+li
+{
+    font-family: initial;
+    font-size: small;
+    margin-left: 5px;
+    color: dimgrey;
+}
